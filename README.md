@@ -33,7 +33,7 @@ Flask / FastAPI (backend)
 HTML, CSS, JavaScript (frontend)
 
 📸 Screenshots
-<p> <img src="assets/Home.png" alt="Home" width="220"/> <img src="assets/AddTask.png" alt="Add Task" width="220"/> <img src="assets/Priority.png" alt="Priority" width="220"/> </p>
+<p> <img src="assets/Home.jpeg" alt="Home" width="220"/> <img src="assets/AddTask.jpeg" alt="Add Task" width="220"/> <img src="assets/Priority.jpeg" alt="Priority" width="220"/> </p>
 🚀 Live Demo / Source Code
 
 🔗 GitHub Repository:
